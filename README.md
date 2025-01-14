@@ -115,4 +115,13 @@ If you're deploying to a production server, you can use tools like:
 ---
 
 If evrything work smoothly on your computer, you will see something like this photos below
+![Screenshot 2025-01-12 090905](https://github.com/user-attachments/assets/908c67cf-ab60-4a3b-8aa7-88a9f110ea9c)
+![Screenshot 2025-01-12 091133](https://github.com/user-attachments/assets/8e7e6f88-1e76-4c7c-a130-c4fd41536442)
+
+![Screenshot 2025-01-12 091418](https://github.com/user-attachments/assets/f22c5a40-8b8e-47fd-ac11-1a1f38d88f7e)
+![Screenshot 2025-01-12 091513](https://github.com/user-attachments/assets/fda683b2-16c8-4484-a8ef-c7596ee0942c)
+![Screenshot 2025-01-12 091633](https://github.com/user-attachments/assets/237c969b-d76a-4367-aba1-7489b218b37d)
+
 ![Screenshot 2025-01-12 091956](https://github.com/user-attachments/assets/d50ba4b3-88ad-4e0f-8a57-1a36975ebfed)
+![Screenshot 2025-01-12 093030](https://github.com/user-attachments/assets/9b7166a2-4202-49f6-9ba3-69b75249fa47)
+
